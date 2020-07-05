@@ -1,7 +1,9 @@
 # hekel
 UPDATE SCRIPT DARK FB PREMIUM DAN TARGET VERSI 2.2 BY MR.X JUNIOR
 
-untuk cara install nya yaitu:
+
+untuk cara menginstalnya yaitu:
+
 $pkg upgrade && pkg update
 
 $pkg install git -y
