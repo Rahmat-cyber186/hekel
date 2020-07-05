@@ -2,7 +2,7 @@
 UPDATE SCRIPT DARK FB PREMIUM DAN TARGET VERSI 2.2 BY MR.X JUNIOR
 
 
-untuk cara menginstalnya yaitu:
+untuk cara instalnya yaitu:
 
 $pkg upgrade && pkg update
 
